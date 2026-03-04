@@ -22,6 +22,22 @@ Aplikacja służy jako Twój osobisty dziennik cyfrowy. Zamiast rozproszonych no
 
 ---
 
+## 📸 Podgląd Panelu (Screeny)
+
+<p align="center">
+  <img src="1.png" width="50%" alt="Screen 1">
+  </p>
+  <p align="center">
+  <img src="3.png" width="50%" alt="Screen 3">
+</p>
+<p align="center">
+  <img src="4.png" width="50%" alt="Screen 4">
+  <img src="5.png" width="50%" alt="Screen 5">
+</p>
+<p align="center">
+  <img src="2.png" width="70%" alt="Screen 2">
+</p>
+
 ## 🛠️ Technologia i Setup
 
 Projekt bazuje na **Vue.js** oraz ultraszybkim narzędziu **Vite**.
