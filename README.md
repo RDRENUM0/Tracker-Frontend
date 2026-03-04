@@ -1,39 +1,29 @@
-# .
+# 📊 Daily Tracker Frontend
+> **Status projektu:** 🚧 W budowie / In Progress
 
-This template should help get you started developing with Vue 3 in Vite.
+Nowoczesny frontend aplikacji do monitorowania codziennych postępów i statystyk życiowych. Aplikacja pozwala na systematyczne zbieranie danych o Twoim dniu, pomagając wyciągać wnioski i budować lepsze nawyki.
 
-## Recommended IDE Setup
+---
 
-[VS Code](https://code.visualstudio.com/) + [Vue (Official)](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+## 📝 O projekcie
+Aplikacja służy jako Twój osobisty dziennik cyfrowy. Zamiast rozproszonych notatek, masz jedno miejsce, w którym lądują Twoje kluczowe metryki.
 
-## Recommended Browser Setup
+**Co możesz śledzić?**
+* 🚗 **Aktywność:** np. liczba przejechanych kilometrów, kroki, czas treningu.
+* ⭐ **Samopoczucie:** ocena dnia w skali 1-10, poziom stresu.
+* 🥗 **Nawyki:** czy udało się utrzymać dietę, ilość wypitej wody.
+* ✍️ **Refleksje:** krótkie notatki podsumowujące dzień.
 
-- Chromium-based browsers (Chrome, Edge, Brave, etc.):
-  - [Vue.js devtools](https://chromewebstore.google.com/detail/vuejs-devtools/nhdogjmejiglipccpnnnanhbledajbpd) 
-  - [Turn on Custom Object Formatter in Chrome DevTools](http://bit.ly/object-formatters)
-- Firefox:
-  - [Vue.js devtools](https://addons.mozilla.org/en-US/firefox/addon/vue-js-devtools/)
-  - [Turn on Custom Object Formatter in Firefox DevTools](https://fxdx.dev/firefox-devtools-custom-object-formatters/)
+## ✨ Kluczowe funkcje (w rozwoju)
+- [ ] Interaktywny formularz dodawania wpisów dziennych.
+- [ ] Podgląd historycznych statystyk.
+- [ ] Wizualizacja danych (wykresy postępów).
+- [ ] Responsywny interfejs (Mobile First).
 
-## Customize configuration
+---
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+## 🛠️ Technologia i Setup
 
-## Project Setup
+Projekt bazuje na **Vue.js** oraz ultraszybkim narzędziu **Vite**.
 
-```sh
-npm install
-```
 
-### Compile and Hot-Reload for Development
-
-```sh
-npm run dev
-```
-
-### Compile and Minify for Production
-
-```sh
-npm run build
-```
-# Tracker-Frontend
